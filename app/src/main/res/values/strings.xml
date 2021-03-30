@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SimpleTimerApp</string>
+    <string name="txt_pause">Pause</string>
+    <string name="txt_start">Start</string>
+    <string name="txt_stop">Stop</string>
+    <string name="timer_dialog_title">CountDown Timer has been finish</string>
+    <string name="timer_dialog_msg">Click "OK" to close this dialog</string>
+    <string name="txt_ok">OK</string>
+    <string name="pick_time_error_msg">Please pick other time length</string>
+    <string name="noti_timer_finished_title">Timer Finished!</string>
+    <string name="noti_timer_running_title">Timer is Running.</string>
+    <string name="app_toolbar_title">Simple Timer</string>
+    <string name="txt_minutes">Minutes</string>
+    <string name="txt_seconds">Seconds</string>
+</resources>
